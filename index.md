@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Обо мне
 
-You can use the [editor on GitHub](https://github.com/denyhoof/denyhoof.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Меня зовут Денис Кондранин, я студент кафедры АСВК ВМК МГУ, в настоящий момент состою в видеогруппе:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Мои уникальные навыки, приобретённые за время учёбы, которые наверняка пригодятся в проффесиональной деятельности
+За период обучения на ВМК МГУ мне довелось сдавать следующие предметы:
+- Историия России
+- Линейная алгебра и аналитическая геометрия (Часть 1)
+- Алгоритмы и алгоритмические языки (C)
+- Математический анализ (Часть 1)
+- Безопасность жизнедеятельности
+- Библиография
+- Современная нейрофизиолония: от молекул к сознанию
+- Английский язык
+- Физвоспитание
+- Архитектура ЭВМ и язык ассемблера (NASM)
+- Математический анализ (Часть 2)
+- Дискретная математика
+- История религии
+- Классическая механика
+- Математический анализ (Часть 3)
+- Операционные системы
+- Введение в численные методы
+- Анализ медицинских изображений
+- Системы программирования (C++)
+- Обыкновенные дифференциальные уравнения
+- Теория вероятности и математической статистики
+- Дискретный и комплексный анализ (Матан 4 + ТФКП)
+- История и философия естествознания
+- Электродинамика
+- Методы оптимизации
+- Экономика
+- Имитационное моделирование в исследованиях и разработках информационных систем
+- Прикладная алгебра
+- Уравнения математической физики
+- Базы данных (SQL, но это не точно)
+- Анализ и обработка видео
+- Методы сжатия изображений
+- Суперкомпьютеры и параллельная обработка данных (MPI, OpenMP)
+- Физические основы построения ЭВМ
+- Компьютерная графика (C++, OpenGL)
+- Доп. задания к компьютерной графике (Doxygen, gtest, Qt, OpenMP, методы SIMD вычислений)
 
-### Markdown
+Также я могу немного кодить на Python и читать статьи (на английском!), могу писать в терминале `git push origin master`, так что, я думаю, вполне приспособлен ко взрослой жизни.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Лишняя информация
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/denyhoof/denyhoof.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Codeforces](http://codeforces.com/profile/Denyhoof)  
+[Last.fm](http://www.last.fm/user/denyhoof)  
+[КиноПоиск](https://www.kinopoisk.ru/user/5958334/)  
+[Яндекс.Музыка](http://music.yandex.ru/users/kde97)  
+[Вконтакте](https://vk.com/kde97)  
+[Telegram](http://t.me/kde97)  
